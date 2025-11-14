@@ -1,0 +1,3 @@
+Lenght of the longest Male: 28 and site code location was at: B15
+Lenght of the longest Female: 29 and site code location was at: C19
+Both were collated from different sites.
